@@ -1,0 +1,110 @@
+---
+title: "Wimator - Android App"
+layout: post
+date: 2017-03-18 23:04
+image: /assets/images/wimator-cover.png
+headerImage: true
+tag:
+- android
+- app
+- automate
+- wifi
+category: blog
+star: true
+author: vishwesh
+description: Easily automate Captive Portal.
+---
+
+**Maximum login limit.**
+
+I think almost everyone (LNMIITians) in familiar with this one. College is providing only one login per login portal, and this message appears when we try to login in another device. Many times we forget to log out when we move from LT area to hostels (or vice versa).  **Wimator** is a perfect solution for this problem.
+
+I have faced this problem many time, I have to wait for 15-20 minutes ideally until portal is logged off automatically. Every second of this 15 minutes is felt like an hour. This gave me an idea why shouldn't I take this problem as an opportunity and develop an app which automatically logs off my portal as soon as device leave the network.
+
+### Here are some cool amazing features of **Wimator**
+
+- Simple to use.
+
+
+Just install it from <a href="https://play.google.com/store/apps/details?id=com.jainkuniya.wimator" target="_blank"> play store </a>, configure your Login Id & password. And all set to go.
+
+- Manage WiFi networks.
+
+
+Easily manage networks for whom you want to enable **Auto Login** and **Override Login**.
+
+**Auto Login** :- Wimator will automatically log in if login is required in that WiFi network.
+
+**Override Login** :- Wimator will send Login request even when another user is logged in.
+
+<a href="https://play.google.com/store/apps/details?id=com.jainkuniya.wimator" target="_blank">
+  <img  border="2" align="center"  src="/assets/images/wimator-manage-wifi.jpg"/>
+</a>
+
+- Get Recent sessions.
+
+<a href="https://play.google.com/store/apps/details?id=com.jainkuniya.wimator" target="_blank">
+  <img  border="2" align="center"  src="/assets/images/wimator-recent-sessions.jpg"/>
+</a>
+Recent sessions include IP address assigned to your device when it is connected to WiFi network. It also contain's starting time and end time of connection.
+
+IP might be helpful in case your phone switched off and Wimator does not get's chance to log off. You can easily set up static IP in other device and log out your portal. Get more info on static IP:-
+
+1. <a href="https://help.ubuntu.com/lts/serverguide/network-configuration.html" target="_blank"> Ubuntu </a>
+2. <a href="https://www.howtogeek.com/howto/19249/how-to-assign-a-static-ip-address-in-xp-vista-or-windows-7/" target="_blank"> Windows </a>
+
+- Login/Logout on finger tips
+
+
+Wimator has a cool widget that allows you to log in and log out with a single click. It also contains status, which shows your current status.
+
+Status can be of:-
+
+1. whether the device is connected to WiFi network or not.
+2. whether the portal is reachable or not.
+3. status of app actions such as
+* performing log in.
+* performing log out.
+4. current status
+* successfully logged in.
+* successfully logged off.
+5. sign in is required or not.
+6. shows server messages like incorrect credentials.
+
+- Notification
+
+
+<a href="https://play.google.com/store/apps/details?id=com.jainkuniya.wimator" target="_blank">
+  <img  border="2" align="center"  src="/assets/images/wimator-notification-logged-in.jpg"/>
+</a>
+
+All the actions can also be performed from notifications.
+Notification helps you in remembering that you have logged in.
+Get a notification whenever a device is disconnected from WiFi network without logging off (if logged in from Wimator app). Manage WiFi network's in which you want to enable auto login; whenever device is connected first time to that network. Send a logout request easily from notification action button.
+
+
+
+- Set your threshold WiFi strength.
+
+
+<a href="https://play.google.com/store/apps/details?id=com.jainkuniya.wimator" target="_blank">
+  <img  border="2" align="center"  src="/assets/images/wimator-wifi-threshold.jpg"/>
+</a>
+
+It is the percentage of WiFi strength, below which Wimator will auto log off. Let us understand it through an example:-
+Let threshold is set to 40, then whenever strength becomes less than 40% Wimator will auto log off (if logged in from Wimator app).
+
+- No need to log in again in order to log off.
+
+
+Whenever log in is performed from the mobile browser, log in button turns to log out button. But if device RAM is cleared or browser is closed or that tab is closed, then in order to log out you have to re-login to get log out button. With Wimator log out can be performed easily.
+
+
+### Credits
+- Thanks [@aditya100158](https://twitter.com/aditya100158?lang=en) & [@ankursmooth](https://twitter.com/ankursmooth?lang=en) for all the motivation and guidance.
+- Thanks [@vcoolsanghai](https://twitter.com/vcoolsanghai?lang=en) for **Our Hotspot**.
+
+
+
+Hava a nice day;
+Feedback are welcomed.
