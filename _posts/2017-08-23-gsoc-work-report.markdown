@@ -20,21 +20,21 @@ The following sections summarize all my PR's and learnings.
 - Don't show tick/done icon if realm is logged out. [#556](https://github.com/zulip/zulip-mobile/pull/556) **merged**
 - Handle narrow to unsubscribed stream. [#564](https://github.com/zulip/zulip-mobile/pull/564)
 - Show smart placeholder for compose input. [#599](https://github.com/zulip/zulip-mobile/pull/599) **merged**
-- Improves login flow. [#511](https://github.com/zulip/zulip-mobile/pull/511)
+- Improves login flow. [#511](https://github.com/zulip/zulip-mobile/pull/511) **merged**
 - Learned more about writing tests for functions, components etc, Jest
 - fix: app crash on sending PM notification bouncer. [#498](https://github.com/zulip/zulip-android/pull/498) **merged** (on [zulip-android](https://github.com/zulip/zulip-android))
 - fix: Autocomplete not being displayed. [#611](https://github.com/zulip/zulip-mobile/pull/611) **merged**
 - Hide soft keyboard on form submission. Submit form with done button in keyboard [#483](https://github.com/zulip/zulip-mobile/pull/483) **merged**
 - Make autocomplete suggestions scrollable. [#627](https://github.com/zulip/zulip-mobile/pull/627) **merged**
-- Fix: Line shown when no # stream suggestion matches. [#622](https://github.com/zulip/zulip-mobile/pull/622)
+- Fix: Line shown when no # stream suggestion matches. [#622](https://github.com/zulip/zulip-mobile/pull/622) **merged**
 - Added clear button to clear search query. [#629](https://github.com/zulip/zulip-mobile/pull/629) **merged**
 - Done testing on iOS, Android 4.1.1, 4.2.2, 4.3, 4.4.4, 5.0.
 - Make links and #streams clickable in messages. [#639](https://github.com/zulip/zulip-mobile/pull/639) **merged**
-- Apply bold, italic, links, strikethrough styles in messages. [#644](https://github.com/zulip/zulip-mobile/pull/644)
+- Apply bold, italic, links, strikethrough styles in messages. **merged** [#644](https://github.com/zulip/zulip-mobile/pull/644)
 - Show edited tag if messages are edited. [#645](https://github.com/zulip/zulip-mobile/pull/645) **merged**
 - [WIP] Emoji Picker. [#646](https://github.com/zulip/zulip-mobile/pull/646)
 - Fix: error on message long press in messageSearchScreen. [#655](https://github.com/zulip/zulip-mobile/pull/655) **merged**
-- Improvement in messageActionSheet [#658](https://github.com/zulip/zulip-mobile/pull/658)
+- Improvement in messageActionSheet [#658](https://github.com/zulip/zulip-mobile/pull/658) **merged**
 - Restore theme after closing/reopening the app. [#506](https://github.com/zulip/zulip-mobile/pull/506) (on [zulip-android](http://github.com/zulip/zulip-android))
 - Make message text color to black on Android. [#663](https://github.com/zulip/zulip-mobile/pull/663) **merged**
 - Added share option in messageActionSheet. [#668](https://github.com/zulip/zulip-mobile/pull/668) needs review
@@ -43,7 +43,7 @@ The following sections summarize all my PR's and learnings.
 - [WIP] Add share with/to feature. [#674](https://github.com/zulip/zulip-mobile/pull/674)
 - Open SubscriptionsScreen on clicking All Streams in left drawer. [#681](https://github.com/zulip/zulip-mobile/pull/681) **merged**
 - Focus compose text after selecting reply. [#686](https://github.com/zulip/zulip-mobile/pull/686)
-- Added Hindi translations in `mobile.json` on Transifex
+- Added Hindi translations in `mobile.json` on [Transifex](https://www.transifex.com/zulip/zulip/dashboard/)
 - Do not dismiss keyboard on clicking auto complete row. [#695](https://github.com/zulip/zulip-mobile/pull/556) **merged**
 - Highlight searched text with yellow color. [#697](https://github.com/zulip/zulip-mobile/pull/697) **merged**
 - Replaced TextInput with Input in StreamBox. [#708](https://github.com/zulip/zulip-mobile/pull/708) not required
@@ -94,7 +94,7 @@ The following sections summarize all my PR's and learnings.
 - Handle alert_words events and fetch them in rest of initial data. [#957](https://github.com/zulip/zulip-mobile/pull/957) **merged**
 - fix: mute topics are not updated on events. [#959](https://github.com/zulip/zulip-mobile/pull/959) **merged**
 - Use precise distributor for travis build. [#958](https://github.com/zulip/zulip-mobile/pull/958) **merged**
-- Translated some strings on Transifex in `django.po` and `mobile.json`
+- Translated some strings on [Transifex](https://www.transifex.com/zulip/zulip/dashboard/) in `django.po` and `mobile.json`
 - Fix: Android crash on entering realm url without protocol. [#963](https://github.com/zulip/zulip-mobile/pull/963) **merged**
 - Change sort order of streams list to match Zulip's standards. [#969](https://github.com/zulip/zulip-mobile/pull/969) **merged**
 - Initial implementation of stream settings. [#975](https://github.com/zulip/zulip-mobile/pull/975)
@@ -114,6 +114,8 @@ The following sections summarize all my PR's and learnings.
 - Fix: warnings on clicking Add new Account button. [#1069](https://github.com/zulip/zulip-mobile/pull/1069) **merged**
 - Fix: UserStatusIndicator not visible. [#1071](https://github.com/zulip/zulip-mobile/pull/1071) **merged**
 - Rework on getAutocompletedText. [#1078](https://github.com/zulip/zulip-mobile/pull/1078) **merged**
+- Focus message input after selecting reply from message action sheet. [#1089](https://github.com/zulip/zulip-mobile/pull/1089)
+- Rework on delete option in message option. [#1090](https://github.com/zulip/zulip-mobile/pull/1090)
 
 ### Conclusion
 
