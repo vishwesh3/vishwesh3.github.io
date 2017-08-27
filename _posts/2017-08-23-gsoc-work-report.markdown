@@ -1,5 +1,5 @@
 ---
-title: "[Draft] GSoC '17 Summary: Improve zulip-mobile"
+title: "GSoC '17 Summary: Improve zulip-mobile"
 layout: post
 date: 2017-08-23 10:21
 image: /assets/images/gsco_banner.png
@@ -114,8 +114,10 @@ The following sections summarize all my PR's and learnings.
 - Fix: warnings on clicking Add new Account button. [#1069](https://github.com/zulip/zulip-mobile/pull/1069) **merged**
 - Fix: UserStatusIndicator not visible. [#1071](https://github.com/zulip/zulip-mobile/pull/1071) **merged**
 - Rework on getAutocompletedText. [#1078](https://github.com/zulip/zulip-mobile/pull/1078) **merged**
-- Focus message input after selecting reply from message action sheet. [#1089](https://github.com/zulip/zulip-mobile/pull/1089)
-- Rework on delete option in message option. [#1090](https://github.com/zulip/zulip-mobile/pull/1090)
+- Focus message input after selecting reply from message action sheet. [#1089](https://github.com/zulip/zulip-mobile/pull/1089) **merged**
+- Rework on delete option in message option. [#1090](https://github.com/zulip/zulip-mobile/pull/1090) **merged**
+- Added tests for status bar style and titleSelectors. [#1094](https://github.com/zulip/zulip-mobile/pull/1094) **merged**
+- Show auto complete suggestion when user types in middle/start of the input. [#1095](https://github.com/zulip/zulip-mobile/pull/1095) **merged**
 
 ### Conclusion
 
