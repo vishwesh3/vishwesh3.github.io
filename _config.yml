@@ -14,7 +14,7 @@ picture: assets/images/2017-02-09-17-44-10-227.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/open?id=0BxdL5qgQdmMHdS1FWE84enl6aWM
+resume-url: /assets/Vishwesh_CV.pdf
 
 url: https://vishwesh3.github.io
 # your url: http://USERNAME.github.io
