@@ -13,8 +13,8 @@ picture: assets/images/2017-02-09-17-44-10-227.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: /assets/vishwesh-cv.pdf
+resume-external: false
+resume-url: assets/vishwesh-cv.pdf
 
 url: https://jainkuniya.github.io
 # your url: http://USERNAME.github.io
