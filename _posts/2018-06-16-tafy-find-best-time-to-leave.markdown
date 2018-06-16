@@ -17,7 +17,7 @@ externalLink: false
 ---
 
 <a href="http://bit.ly/tafy" target="_blank" align="center">
-  <img width="245" height="168" border="0"  src="/assets/images/chromewebstore.jpg"/>
+  <img width="122.5" height="84" border="0"  src="/assets/images/chromewebstore.jpg"/>
 </a>
 
 Holla! Glad that you came here :p
