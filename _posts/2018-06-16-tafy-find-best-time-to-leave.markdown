@@ -16,8 +16,8 @@ author: vishwesh
 externalLink: false
 ---
 
-<a href="http://bit.ly/tafy" target="_blank">
-  <img width="180" height="70" border="0" align="center"  src="/assets/images/chromewebstore.jpg"/>
+<a href="http://bit.ly/tafy" target="_blank" align="center">
+  <img width="245" height="168" border="0"  src="/assets/images/chromewebstore.jpg"/>
 </a>
 
 Holla! Glad that you came here :p
