@@ -8,7 +8,7 @@ tag:
 - tafy
 image: /assets/images/tafy-cover.png
 headerImage: true
-projects: false
+projects: true
 hidden: false # don't count this post in blog pagination
 description: "Chrome extension"
 jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/leave.png" height="20" width="20" align="absmiddle">'
