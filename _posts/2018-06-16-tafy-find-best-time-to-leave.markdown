@@ -1,5 +1,5 @@
 ---
-title: "[WIP] Tafy - Find best time to leave."
+title: "Tafy - Find best time to leave."
 layout: post
 date: 2018-06-16 16:40
 image: /assets/images/tafy-cover.png
