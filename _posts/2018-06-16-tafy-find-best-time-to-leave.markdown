@@ -2,18 +2,16 @@
 title: "[WIP] Tafy - Find best time to leave."
 layout: post
 date: 2018-06-16 16:40
+image: /assets/images/tafy-cover.png
+headerImage: true
 tag: 
 - traffic
 - extension
 - tafy
-image: /assets/images/tafy-cover.png
-headerImage: true
-projects: true
-hidden: false # don't count this post in blog pagination
-description: "Chrome extension"
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="/assets/images/leave.png" height="20" width="20" align="absmiddle">'
+category: blog
+star: true
 author: vishwesh
-externalLink: false
+description: "Chrome extension"
 ---
 
 <a href="http://bit.ly/tafy" target="_blank" align="center">
