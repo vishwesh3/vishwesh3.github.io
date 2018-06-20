@@ -90,13 +90,13 @@ This was the brief overview of what I have build last week in the same category 
   - **Adjustable Refresh rate**
 
     It is the time interval in which travel time is updated from the server.
-    If, in case, it's not urgent to leave, you can increase the refresh rate to reduce the load on server :D.
+    If, in case, it's not urgent to leave, you can increase the refresh rate to reduce the load on server :sweat_smile:.
 
 Sounds useful? [Try](http://bit.ly/tafy) it out. Looking forward to your feedback and comments.
 
 Thanks to [@dhananjayjs](http://bit.ly/d-in-linkedin) for that awestricking moment which has helped me in sketching an idea for my work,
 Thanks [@RGengage](http://bit.ly/r-in-linkedin) for the feature ideas, Thanks [@TechGirlPooja](http://bit.ly/p-in-linkedin) for landing to this.
 
-Made with <3 in India
+Made with :heart: in India
 
 © 2018 [jainkuniya](https://jainkuniya.github.io)
