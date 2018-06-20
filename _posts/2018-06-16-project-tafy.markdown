@@ -26,7 +26,7 @@ externalLink: false
 
 ## Key Features
 
-### v6.1
+### v6.3
 
 - Easy to setup.
 - Fully customizable.
