@@ -42,11 +42,11 @@ And at least for next half an hour your primary job has shifted to check maps ov
 
 > You know what, you could have had played TT in that time :D How?
 
-Let's take [Tafy's](http://bit.ly/tafy) help. Just trun it on, set the time duration which works for you, [Tafy's](http://bit.ly/tafy) will automatically notify you the best time to start. Till then, you can carry on your work (yes yes! you can play too :p), without needing to hit maps repeatedly.
+Let's take [Tafy's](http://bit.ly/tafy) help. Just trun it on, set the time duration which works for you, [Tafy](http://bit.ly/tafy) will automatically notify you the best time to start. Till then, you can carry on your work (yes yes! you can play too :p), without needing to hit maps repeatedly.
 
-[Tafy](http://bit.ly/tafy) is very light weight, it takes negligible RAM compared to map site/app which means it can just cozily sit there in your browser's top right corner without hampering any performance of your PC.
+[Tafy](http://bit.ly/tafy) is very light weight, it takes negligible RAM compared to map site/app which means, it just cozily sit there in your browser's top right corner without hampering any performance of your PC.
 
-This was the brief overview of what I have build last week in the same category as of [wimator](../wimator)
+This was the brief overview of what I have build last week in the same category as of [Wimator](../wimator)
 
 ## Features of [Tafy](http://bit.ly/tafy)
 
@@ -56,6 +56,7 @@ This was the brief overview of what I have build last week in the same category 
   - Open [Google maps](http://bit.ly/v-maps)
   - Search for the destination.
   - Click on directions.
+  - Enter/Select Origin.
   - See the magic.
 
   Now you can close maps tab. [Tafy](http://bit.ly/tafy) is ready to do it's job.
@@ -67,7 +68,7 @@ This was the brief overview of what I have build last week in the same category 
 
     Set the time duration in which you are ready to travel.
 
-  - **Set your own custom text to be voiced in the notification.**
+  - **Set your own custom text to be voiced in the notification**
 
     Yes! you heard it right :). [Tafy](http://bit.ly/tafy) will play a audio of whatever text you have entered in the input box.
 
