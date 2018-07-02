@@ -42,7 +42,7 @@ And at least for next half an hour your primary job has shifted to check maps ov
 
 > You know what, you could have had played TT in that time :D How?
 
-Let's take [Tafy's](http://bit.ly/tafy) help. Just trun it on, set the time duration which works for you, [Tafy](http://bit.ly/tafy) will automatically notify you the best time to start. Till then, you can carry on your work (yes yes! you can play too :p), without needing to hit maps repeatedly.
+Let's take [Tafy's](http://bit.ly/tafy) help. Just turn it on, set the time duration which works for you, [Tafy](http://bit.ly/tafy) will automatically notify you the best time to start. Till then, you can carry on your work (yes yes! you can play too :p), without needing to hit maps repeatedly.
 
 [Tafy](http://bit.ly/tafy) is very light weight, it takes negligible RAM compared to map site/app which means, it just cozily sit there in your browser's top right corner without hampering any performance of your PC.
 
