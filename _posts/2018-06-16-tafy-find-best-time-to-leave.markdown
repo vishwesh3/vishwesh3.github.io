@@ -15,7 +15,7 @@ description: "Chrome extension"
 ---
 
 <a href="http://bit.ly/tafy" target="_blank" align="center">
-  <img width="122.5" height="84" border="0"  src="/assets/images/chromewebstore.jpg"/>
+  <img width="122.5" height="84" border="0"  src="/assets/images/chromewebstore.png"/>
 </a>
 
 Holla! Glad that you came here :p
@@ -25,6 +25,8 @@ Are you facing problems with traffic?
 
 - Worried about when to leave, to escape from traffic?
 - Checking Google maps frequently to keep an eye on the traffic?
+
+> Or should I just ask, living in Banglore? Haha :wink:!
 
 Then this is for you :)
 

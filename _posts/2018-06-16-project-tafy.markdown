@@ -16,11 +16,15 @@ author: vishwesh
 externalLink: false
 ---
 
-<a href="http://bit.ly/tafy" target="_blank" align="center">
-  <img width="122.5" height="84" border="0"  src="/assets/images/chromewebstore.jpg"/>
-</a>
-
 [**Tafy**](http://bit.ly/tafy) - Magical chrome extension which helps in finding best time to leave for the destination.
+
+---
+
+<a href="http://bit.ly/tafy" target="_blank" align="center">
+  <img style="display: block;
+    margin-left: auto;
+    margin-right: auto;" width="122.5" height="84" border="0"  src="/assets/images/chromewebstore.png"/>
+</a>
 
 ---
 
@@ -42,7 +46,7 @@ externalLink: false
 
 ## Developer's note
 
-Recently I joined Goibibo for my summer intern, and I realized the problem of hitting maps again & again to find when the traffic is mininal. So I thought of developing this chrome extension which do jobs for you and you can focus on your work.
+Recently I moved to Banglore for my summer internship at Goibibo, where I witnessed the world famous traffic and people investing average half an hour on a daily basis by refreshing maps to find out best time to leave for their destination hence I decided to develop this chrome extension which eases this for you.
 
 For more info find my blog on [Tafy](https://jainkuniya.github.io/tafy-find-best-time-to-leave/);
 
