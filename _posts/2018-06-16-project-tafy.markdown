@@ -30,7 +30,7 @@ externalLink: false
 
 ## Key Features
 
-### v6.3
+### v7.0
 
 - Easy to setup.
 - Fully customizable.
