@@ -18,19 +18,19 @@ description: "Chrome extension"
   <img width="122.5" height="84" border="0"  src="/assets/images/chromewebstore.png"/>
 </a>
 
-Holla! Glad that you came here :p
-
 Traffic, Traffic, Traffic!
 Are you facing problems with traffic?
 
 - Worried about when to leave, to escape from traffic?
-- Checking Google maps frequently to keep an eye on the traffic?
+- Checking Google maps frequently to keep an eye on the traffic trend?
 
-> Or should I just ask, living in Banglore? Haha :wink:!
+> Or should I just ask, are you living in Banglore? Haha :wink:!
 
 Then this is for you :)
 
 [**Tafy**](http://bit.ly/tafy) - A simple chrome extension which can help you find best time to leave for your destination.
+**Background:**
+Recently I moved to Banglore for my summer internship at Goibibo, where I witnessed the world famous traffic and people investing an hour on a daily basis by refreshing maps to find out best time to leave for their destination hence I decided to develop this chrome extension which won't fix the traffic but helps you cope with it smarter way :D
 
 Let's understand it with a real life example:
 
