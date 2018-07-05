@@ -58,9 +58,8 @@ This was the brief overview of what I have built last week in the same category 
 
   - Download [Tafy](http://bit.ly/tafy) from [chrome webstore](http://bit.ly/tafy).
   - Open [Google maps](http://bit.ly/v-maps)
-  - Search for the destination.
+  - Set your source and destination.
   - Click on directions.
-  - Enter/Select Origin.
   - See the magic.
 
   Now you can close the maps tab. [Tafy](http://bit.ly/tafy) is ready to do it's job.
@@ -74,7 +73,7 @@ This was the brief overview of what I have built last week in the same category 
 
   - **Set your own custom text to be voiced in the notification**
 
-    Yes! you heard it right :). [Tafy](http://bit.ly/tafy) will play a audio of whatever text you have entered in the input box.
+    Yes! you heard it right :). [Tafy](http://bit.ly/tafy) will alert you with your own personalised message, when the time dips to your desired time.
 
   - **Add as many routes you want**
 
@@ -99,8 +98,8 @@ This was the brief overview of what I have built last week in the same category 
 
 Sounds useful? [Try](http://bit.ly/tafy) it out. Happy to hear your feedback.
 
-Thanks to [@dhananjayjs](http://bit.ly/d-in-linkedin) for that awestricking moment which has helped me in sketching the idea of Taffy,
-Thanks [@RGengage](http://bit.ly/r-in-linkedin) for feature ideas, Thanks [@TechGirlPooja](http://bit.ly/p-in-linkedin) for helping the release land here :)
+Thanks to [@dhananjayjs](http://bit.ly/d-in-linkedin) for that awestricking moment which helped me sketching the idea of Tafy,
+Thanks [@RGengage](http://bit.ly/r-in-linkedin) for feature ideas, Thanks [@TechGirlPooja](http://bit.ly/p-in-linkedin) for helping the release land here :thumbsup:
 
 Made with :heart: in India
 
