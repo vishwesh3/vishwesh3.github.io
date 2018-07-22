@@ -13,7 +13,9 @@ author: vishwesh
 description: Work report for GSoC'17 @zulip
 ---
 
-My proposal for Improve, enhance current React Native app was selected for Google Summer of Code 2017. I worked with the organization [Zulip](https://zulipchat.com).
+I got selected in Google Summer 2017 of Code under [Zulip](https://zulipchat.com) organization. Zulip is world’s most productive group chat platform. It is an open source alternative for Slack.
+
+My proposal was to Improve and enhance current React Native app.
 
 The following sections summarize all my PR's and learnings.
 
