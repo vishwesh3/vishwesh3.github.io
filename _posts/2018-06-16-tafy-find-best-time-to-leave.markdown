@@ -15,7 +15,9 @@ description: "Chrome extension"
 ---
 
 <a href="http://bit.ly/tafy" target="_blank" align="center">
-  <img width="122.5" height="84" border="0"  src="/assets/images/chromewebstore.png"/>
+  <img style="display: block;
+    margin-left: auto;
+    margin-right: auto;" width="122.5" height="84" border="0"  src="/assets/images/chromewebstore.png"/>
 </a>
 
 Traffic, Traffic, Traffic!
@@ -29,7 +31,6 @@ Are you facing problems with traffic?
 Then this is for you :)
 
 [**Tafy**](http://bit.ly/tafy) - A simple chrome extension which can help you find best time to leave for your destination.
-
 
 **Background:**
 Recently I moved to Bangalore for my summer internship at [Goibibo](https://goibibo.com), where I witnessed the world famous traffic and people investing an hour on a daily basis by refreshing maps to find out best time to leave for their destination hence decided to develop this simple solution which won't fix the traffic condition but help you cope with it smarter way :D
