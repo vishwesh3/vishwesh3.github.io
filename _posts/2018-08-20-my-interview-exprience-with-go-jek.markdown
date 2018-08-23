@@ -1,5 +1,5 @@
 ---
-title: '[DRAFT] My Interview Exprience with Go-Jek'
+title: 'My Interview Exprience with Go-Jek'
 layout: post
 date: 2018-08-20 13:51
 image: /assets/images/go-jek-logo.png
