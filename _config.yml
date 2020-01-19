@@ -22,7 +22,7 @@ url: https://jainkuniya.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: "UA-104769451-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -53,12 +53,12 @@ medium: jainkuniya
 email: jainkuniya@gmail.com
 
 authors:
-    vishwesh:
-        name: Vishwesh Jainkuniya
-        bio: Learner
-        external-image: false
-        picture: assets/images/2017-02-09-17-44-10-227.jpg
-        twitter: jainkuniya
+  vishwesh:
+    name: Vishwesh Jainkuniya
+    bio: Learner
+    external-image: false
+    picture: assets/images/2017-02-09-17-44-10-227.jpg
+    twitter: jainkuniya
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -101,4 +101,4 @@ gems:
   - jemoji
 
 jekyll-mentions:
-    base_url: https://github.com/
+  base_url: https://github.com/
