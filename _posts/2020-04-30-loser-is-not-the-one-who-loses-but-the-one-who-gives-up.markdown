@@ -22,7 +22,7 @@ This blog is targeted for all those who feel that they are losers, believe me, y
 
 I am from an engineering background, so mostly this blog will revolve around engineering entrance exams, engineering colleges, and the life of an engineer 😅.
 
-In India, the Indian Institute of Technology ([IITs](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology)) are considered as one of the best engineering colleges. At the time of writing this, there are 23 IITs which takes around 11,279 students every year.
+In India, the Indian Institute of Technology ([IITs](https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology)) are considered as one of the best engineering colleges. At the time of writing this, there are 23 IITs which take around 11,279 students every year.
 
 **But do you know how many students give entrance exam to get into IIT?**
 
@@ -41,16 +41,16 @@ It has something called **HEADSTART**, which provides you some initial lead with
 IITs are also similar to that headstart. Being the elite institutions of the country, will give you a safe side and provide headstart in your life. *But to be successful, you need to keep doing hard labor and good deeds.*
 
 So it is not the end of life if you can’t get into IITs. Keep working and the whole world will come to know about your work.
-> #### It’s not IIT which make people successful, it is their talents.!!!
+> #### It’s not IIT which makes people successful, it is their talents.!!!
 
 Few examples:
 [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella) (**CEO of Microsoft**), [Shantanu Narayan](https://en.wikipedia.org/wiki/Shantanu_Narayen) (**CEO of Adobe Systems**) and many many more (to know more, please follow [this thread](https://www.quora.com/Are-there-any-famous-non-IITian-engineers-from-India))
 
 Failures are not only in exams, but they are also spread all over the life span.
 
-I would like to share one more story, which inspires me a lot. This is a story of [Harrdy Sandhu](https://en.wikipedia.org/wiki/Harrdy_Sandhu), he is one of the most popular singers of Punjabi songs. He started his career in cricket and played for 10 years. [He also played in under-19 team](https://m.dailyhunt.in/news/india/english/laughingcolours+english-epaper-laughcole/birthday+special+hardy+sandhu+started+his+career+as+a+cricketer+and+is+now+a+top+punjabi+singer-newsid-96313921). But in 2006, he had an elbow injury. he was a fast bowler and his injury was on my right arm. He tried to get treatment, but nothing happened.
+I would like to share one more story, which inspires me a lot. This is a story of [Harrdy Sandhu](https://en.wikipedia.org/wiki/Harrdy_Sandhu), he is one of the most popular singers of Punjabi songs. He started his career in cricket and played for 10 years. [He also played in under-19 team](https://m.dailyhunt.in/news/india/english/laughingcolours+english-epaper-laughcole/birthday+special+hardy+sandhu+started+his+career+as+a+cricketer+and+is+now+a+top+punjabi+singer-newsid-96313921). But in 2006, he had an elbow injury. He was a fast bowler and his injury was on my right arm. He tried to get treatment, but nothing happened.
 
-Now, he had two options: either he can curse his injury & give up or he can to move on. He had chosen the later one. He started his new career in singing and did hard work. Now, all know that he is the №1 singer in Punjabi Industry.
+Now, he had two options: either he can curse his injury & give up or he can move on. He had chosen the later one. He started his new career in singing and did hard work. Now, all know that he is the №1 singer in Punjabi Industry.
 
 [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell) (inventor of telephone), says
 > #### When one door closes, another door opens, but we so often look so long and so regretfully upon the closed door, that we do not see the ones which open for us.
