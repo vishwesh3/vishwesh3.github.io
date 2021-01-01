@@ -341,7 +341,10 @@ Same as, new shoes feel uncomfortable initially but after few days we love them.
 - A great quote contains wealth and wisdom in a single line. Collect quotes that inspire you
 - Timeless secret to a long, happy life is to love our work
 - "There is no higher religion than human service. To work for the common good is the greatest creed" - Albert Schweitzer
-  39/39
+
+---
+
+39/39
 
 We live in an age where we have conquered the highest of mountains but have yet to master our selves.
 
